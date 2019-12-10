@@ -1,12 +1,7 @@
-
-
-
-
-# Getting started with Big Data and Apache Spark
+## Getting started with Big Data and Apache Spark
 ![Apache SPark logo](assets/spark-white.png)
 ![Databricks logo](assets/databricks-white.png)
 ### Jeff Brockway
-### 2019-12-11
 
 
 
@@ -131,35 +126,35 @@ First get some data scientist a on it to explore, and then data engineers to plu
 
 
 
-* Sign up for Databricks CE
+## Sign up for Databricks CE
 
 
 
-* Import a dataset
+## Import a dataset
 
 
 
-* View the data
+## View the data
 
 
 
-* Perform some actions on it
+## Perform some actions on it
 
 
 
-* Perform some transformations
+## Perform some transformations
 
 
 
-* Do this with SQL and Python
+## Do this with SQL and Python
 
 
 
-* Visualize
+## Visualize
 
 
 
-* Save and share notebook
+## Save and share notebook
 
 
 
