@@ -1,6 +1,6 @@
 ## Getting started with Big Data and Apache Spark
-![Apache SPark logo](assets/spark-white.png)
-![Databricks logo](assets/databricks-white.png)
+![Apache SPark logo](slideassets/spark-white.png)
+![Databricks logo](slideassets/databricks-white.png)
 ### Jeff Brockway
 
 
