@@ -104,14 +104,6 @@ https://www.maxpixels.net/Paperwork-Stack-Office-Paper-Data-Work-Files-1614223
 
 
 <!-- .slide: data-background-image="slideassets/background-gray-dimpled.jpg" -->
-## What tools will I use?
-* Apache Spark
-* Databricks
-* other tools
-
-
-
-<!-- .slide: data-background-image="slideassets/background-gray-dimpled.jpg" -->
 ## So what is Apache Spark?
 "Apache Spark is an engine for big data processing, with built-in modules for streaming, SQL, machine learning and graph processing."
 
@@ -166,12 +158,6 @@ First get some data scientist a on it to explore, and then data engineers to plu
 
 
 <!-- .slide: data-background-image="slideassets/background-gray-dimpled.jpg" -->
-## Ok, so how do I install this on my machine?
-* Er, you don't
-
-
-
-<!-- .slide: data-background-image="slideassets/background-gray-dimpled.jpg" -->
 ## Where does Databricks fit in?
 * Infra structure
 * Clustering and scalability
@@ -186,42 +172,8 @@ First get some data scientist a on it to explore, and then data engineers to plu
 
 
 
-## Sign up for Databricks CE
-Import a notebook here
-Download a PDF here
-
-RDD
-DAtaframe
-Datasets
-
-
-<!-- .slide: data-background-video="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" -->
-## Import a dataset<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
-
-
-
-## View the data
-
-
-
-## Perform some actions on it
-
-
-
-## Perform some transformations
-
-
-
-## Do this with SQL and Python
-
-
-
-## Visualize
-
-
-
-## Save and share notebook
-
+<!-- .slide: data-background-video="slideassets/Databricks-demo.mp4" -->
+## Demo<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 
 
