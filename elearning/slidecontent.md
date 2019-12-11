@@ -34,7 +34,7 @@ Help someone familiar with traditional database analytics and reporting understa
 * Identify next steps
 
 
-<!-- .slide: data-background-image="assets/background-gray-dimpled" -->
+<!-- .slide: data-background-image="slideassets/background-gray-dimpled" -->
 ## Why big data?
 Not all jobs can run once daily on a single system
 
@@ -133,8 +133,10 @@ Import a notebook here
 Download a PDF here
 
 
+
+<!-- .slide: data-background-video="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" -->
 ## Import a dataset
-<video class="stretch" src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
+
 
 
 ## View the data
