@@ -34,18 +34,20 @@ Help someone familiar with traditional database analytics and reporting understa
 * Identify next steps
 
 
-
+<!-- .slide: data-background-image="assets/background-gray-dimpled" -->
 ## Why big data?
 Not all jobs can run once daily on a single system
 
 
 
+<!-- .slide: data-background="#ff0000" -->
 ## When would I use it?
-1. When it's too big to run on one machine
-2. When you need it faster
+1. When it's too big to run on one machine<!-- .element: class="fragment" data-fragment-index="1" -->
+2. When you need it faster<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
+<!-- .slide: data-background="#00ff00" -->
 ## What are some use cases?
 * Cyber security SIEM systems
 * Too many events
@@ -127,11 +129,12 @@ First get some data scientist a on it to explore, and then data engineers to plu
 
 
 ## Sign up for Databricks CE
-
+Import a notebook here
+Download a PDF here
 
 
 ## Import a dataset
-
+<video class="stretch" src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
 
 
 ## View the data
@@ -158,4 +161,5 @@ First get some data scientist a on it to explore, and then data engineers to plu
 
 
 
-## Next steps
+
+# Next steps
