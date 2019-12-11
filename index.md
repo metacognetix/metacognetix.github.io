@@ -7,5 +7,5 @@
 
 ---  
 
-[Testing 1](https://metacognetix.github.io/elearning/deck1.html)  
-[Testing 2](https://metacognetix.github.io/elearning/deck2.html)  
+[Recording](https://metacognetix.github.io/getting-started-with-apache-spark.mp4)  
+
