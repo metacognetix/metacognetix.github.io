@@ -34,7 +34,7 @@ Help someone familiar with traditional database analytics and reporting understa
 * Identify next steps
 
 
-<!-- .slide: data-background-image="slideassets/background-gray-dimpled" -->
+<!-- .slide: data-background-image="https://metacognetix.github.io/elearning/slideassets/background-gray-dimpled" -->
 ## Why big data?
 Not all jobs can run once daily on a single system
 
@@ -135,7 +135,7 @@ Download a PDF here
 
 
 <!-- .slide: data-background-video="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" -->
-## Import a dataset
+## Import a dataset<!-- .element: class="fragment fade-out" data-fragment-index="1" -->
 
 
 
