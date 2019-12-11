@@ -5,6 +5,7 @@
 
 
 
+<!-- .slide: data-background-image="slideassets/background-gray-dimpled.jpg" -->
 ## You are here
 * Where you are in the Course
 * What you've already done
